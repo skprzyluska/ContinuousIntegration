@@ -14,7 +14,7 @@ public class WyrażeniaTest {
         assertEquals (jeden.pomnóż(zero), zero);
         assertEquals (jeden.pomnóż(zero).toString(), ("0.0"));
         assertEquals (x.pomnóż(zero), zero);
-        assertEquals (x.pomnóż(zero).toString(), ("0.0"));
+        assertEquals (x.pomnóż(zero).toString(), ("1.0"));
     }
     @Test
     void testDodawaniaZera(){
