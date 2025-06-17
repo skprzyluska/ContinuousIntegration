@@ -10,7 +10,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //
+        // Added a comment
         Wyrażenie jeden, zero, x;
         x = Zmienna.twórz();
         zero = Zero.twórz();
